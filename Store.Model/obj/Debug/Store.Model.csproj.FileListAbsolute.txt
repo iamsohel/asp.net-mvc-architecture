@@ -1,0 +1,6 @@
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Model\bin\Debug\Store.Model.dll
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Model\bin\Debug\Store.Model.pdb
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Model\obj\Debug\Store.Model.dll
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Model\obj\Debug\Store.Model.pdb
+C:\Users\Sohel\documents\visual studio 2013\Projects\Store\Store.Model\bin\Debug\AutoMapper.dll
+C:\Users\Sohel\documents\visual studio 2013\Projects\Store\Store.Model\bin\Debug\AutoMapper.xml

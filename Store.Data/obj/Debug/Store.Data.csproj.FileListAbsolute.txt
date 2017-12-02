@@ -1,0 +1,12 @@
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\Store.Data.dll.config
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\Store.Data.dll
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\Store.Data.pdb
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\EntityFramework.dll
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\EntityFramework.xml
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\obj\Debug\Store.Data.csprojResolveAssemblyReference.cache
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\obj\Debug\Store.Data.dll
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\obj\Debug\Store.Data.pdb
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\Store.Model.dll
+c:\users\sohel\documents\visual studio 2013\Projects\Store\Store.Data\bin\Debug\Store.Model.pdb
